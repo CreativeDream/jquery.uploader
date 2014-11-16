@@ -1,7 +1,7 @@
 jquery.uploader
 ===============
 
-Simple jQuery Form Submit Plugin
+The jQuery Form Plugin allows you to easily and unobtrusively upgrade HTML forms to use AJAX. 
 
 Usage
 -------
