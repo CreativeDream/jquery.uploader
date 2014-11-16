@@ -21,7 +21,7 @@ Create a Form.
 <form action="" method="POST">
     <input type="text" name="text" value="Text Field" />
     <br>
-    <inpu type="submit" name="submit" />
+    <input type="submit" name="submit" />
 </form>
 ~~~~
 __Javascript:__
