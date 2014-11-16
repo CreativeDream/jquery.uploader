@@ -25,6 +25,7 @@ Create a Form.
 </form>
 ~~~~
 __Javascript:__
+
 The plugin is named "uploader" and can be applied to a form element. You will probably also specify some options while applying the plugin.
 ~~~ javascript
 $('form').uploader({
@@ -50,12 +51,15 @@ $('form').uploader({
 Features
 -------
 __trgigger Options:__
+
+jQuery Manual Triggering $('form').trigger("option"):
 * uploader.submit
 * uploader.enable
 * uploader.disable
 * uploader.destroy
 
 __attribute Options:__
+
 Form element attributes:
 * data-uploader | on, off, disabled
 * data-validate | true, false
