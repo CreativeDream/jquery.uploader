@@ -1,0 +1,17 @@
+/*!
+ * CSS Uploader
+ * Copyright (c) 2013 CreativeDream
+ * Version: 1.0 (30-03-2013)
+*/
+.uploader-progressbar {
+    background: #4065af;
+    position: fixed;
+    z-index: 999;
+    bottom: 0;
+    left: 0;
+    height: 5px;
+    -webkit-transition: width 0.3s;
+    -moz-transition: width 0.3s;
+    -o-transition: width 0.3s;
+    transition: width 0.3s;
+}
