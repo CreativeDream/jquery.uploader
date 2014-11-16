@@ -9,7 +9,7 @@ __HTML:__
 
 Include the jquery.uploader Progressbar styles file in your html page.
 ~~~~ html
-<link href="css/jquery.uploader.css" type="text/css" rel="stylesheet" />
+<link href="./css/jquery.uploader.css" type="text/css" rel="stylesheet" />
 ~~~~
 Include the jQuery libraray and jquery.uploader script file in your html page.
 ~~~~ html
